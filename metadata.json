@@ -1,0 +1,11 @@
+{
+  "name": "Helfen AI",
+  "description": "Asisten cerdas pendeteksi uang & jembatan komunikasi antar-disabilitas berteknologi AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
